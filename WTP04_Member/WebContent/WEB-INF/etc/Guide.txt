@@ -1,0 +1,4 @@
+1. FrontController 패턴을 이용해 구조를 설정한다.
+2. JSP에서는 스크립트릿, 표현식(Expression) 태그보다는 Action tag와 EL을 이용해 작성한다.
+3. DBCP 를 이용해 DB Connection을 조회한다.
+4. Connection은 Business Service에서 생성해서 DAO 메소드 호출시 전달한다.
